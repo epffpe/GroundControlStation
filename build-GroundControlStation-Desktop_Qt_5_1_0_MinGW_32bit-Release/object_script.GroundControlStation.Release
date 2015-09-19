@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\xplane.o
+./release\falconboard.o
+./release\speedcommunications.o
+./release\qrc_MyRes.o
+./release\moc_mainwindow.o
+./release\moc_xplane.o
+./release\moc_falconboard.o
+./release\moc_speedcommunications.o
+);

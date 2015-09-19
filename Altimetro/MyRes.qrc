@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>cockpit/altimetro/alt_GA.png</file>
+        <file>cockpit/altimetro/alt_GA-1.png</file>
+        <file>cockpit/altimetro/alt_GA-2.png</file>
+        <file>cockpit/altimetro/alt_GA-3.png</file>
+    </qresource>
+</RCC>

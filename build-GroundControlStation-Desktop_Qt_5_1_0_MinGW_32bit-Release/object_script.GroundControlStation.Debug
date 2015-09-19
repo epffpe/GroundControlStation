@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\xplane.o
+./debug\falconboard.o
+./debug\speedcommunications.o
+./debug\qrc_MyRes.o
+./debug\moc_mainwindow.o
+./debug\moc_xplane.o
+./debug\moc_falconboard.o
+./debug\moc_speedcommunications.o
+);

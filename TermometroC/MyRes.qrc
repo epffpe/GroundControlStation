@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>cockpit/Termometro/thermo_linear_C.png</file>
+        <file>cockpit/Termometro/thermo_linear_C-2.png</file>
+        <file>cockpit/Termometro/thermo_linear_C-3.png</file>
+        <file>cockpit/Termometro/thermo_linear_C.txt</file>
+    </qresource>
+</RCC>

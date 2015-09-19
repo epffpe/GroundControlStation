@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>cockpit/DGs/DG.png</file>
+        <file>cockpit/DGs/DG-1.png</file>
+        <file>cockpit/DGs/DG-2.png</file>
+        <file>cockpit/DGs/DG-3.png</file>
+    </qresource>
+</RCC>

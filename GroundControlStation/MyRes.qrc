@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Iconos/1.png</file>
+        <file>Iconos/2.png</file>
+        <file>Iconos/3.png</file>
+        <file>Iconos/4.png</file>
+        <file>Iconos/5.png</file>
+        <file>Iconos/6.png</file>
+        <file>Iconos/7.png</file>
+        <file>Iconos/8.png</file>
+        <file>Iconos/9.png</file>
+        <file>Iconos/10.png</file>
+        <file>Iconos/11.png</file>
+        <file>Iconos/Perspectiva_TOP.png</file>
+        <file>Iconos/Perspectiva_TOP2.png</file>
+        <file>Iconos/PCBTOP.png</file>
+        <file>Iconos/PCBTOP2.png</file>
+        <file>Iconos/elv_trim_ind.png</file>
+        <file>Iconos/FMS_small.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>cockpit/HorizonteArtificial/horizon_GA_vac_flag.png</file>
+        <file>cockpit/HorizonteArtificial/horizon_GA_vac_flag-1.png</file>
+        <file>cockpit/HorizonteArtificial/horizon_GA_vac_flag-2.png</file>
+        <file>cockpit/HorizonteArtificial/horizon_GA_vac_flag-3.png</file>
+        <file>cockpit/HorizonteArtificial/horizon_glass_HM-3.png</file>
+        <file>cockpit/DGs/DG.png</file>
+        <file>cockpit/DGs/DG_linear.png</file>
+        <file>cockpit/DGs/DG_linear-1.png</file>
+        <file>cockpit/DGs/DG_linear-3.png</file>
+        <file>cockpit/DGs/DG-1.png</file>
+        <file>cockpit/DGs/DG-2.png</file>
+        <file>cockpit/DGs/DG-3.png</file>
+        <file>cockpit/airspeed/ASI_preset_GA_200.png</file>
+        <file>cockpit/airspeed/ASI_preset_GA_200-2.png</file>
+        <file>cockpit/altimetro/alt_GA.png</file>
+        <file>cockpit/altimetro/alt_GA-1.png</file>
+        <file>cockpit/altimetro/alt_GA-2.png</file>
+        <file>cockpit/altimetro/alt_GA-3.png</file>
+        <file>cockpit/verticalspeed/VVI_2000_GA.png</file>
+        <file>cockpit/verticalspeed/VVI_2000_GA-2.png</file>
+        <file>cockpit/airspeed/ASI_adap_GA.png</file>
+        <file>cockpit/airspeed/ASI_adap_GA-2 (2).png</file>
+    </qresource>
+</RCC>

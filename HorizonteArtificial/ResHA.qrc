@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>cockpit/HorizonteArtificial/horizon_GA_vac_flag.png</file>
+        <file>cockpit/HorizonteArtificial/horizon_GA_vac_flag-1.png</file>
+        <file>cockpit/HorizonteArtificial/horizon_GA_vac_flag-2.png</file>
+        <file>cockpit/HorizonteArtificial/horizon_GA_vac_flag-3.png</file>
+        <file>cockpit/HorizonteArtificial/horizon_glass_HM-3.png</file>
+    </qresource>
+</RCC>

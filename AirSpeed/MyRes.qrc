@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>cockpit/airspeed/ASI_preset_GA_200.png</file>
+        <file>cockpit/airspeed/ASI_preset_GA_200-2.png</file>
+    </qresource>
+</RCC>

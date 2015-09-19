@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>cockpit/verticalspeed/VVI_2000_GA.png</file>
+        <file>cockpit/verticalspeed/VVI_2000_GA-2.png</file>
+    </qresource>
+</RCC>

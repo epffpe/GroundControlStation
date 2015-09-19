@@ -1,0 +1,4 @@
+A
+750 version
+x 	y 
+0     	-52	// comment: offset of needle center of rotation
